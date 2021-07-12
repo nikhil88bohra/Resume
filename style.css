@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin :0;
+}
+body{
+    
+    font-family:  sans-serif;
+    
+    
+    margin-left: 10px;
+    
+
+}
+
+.container{
+   
+    
+  
+    
+    
+    
+    text-align: center;
+}
+
+
+.profile-pic img {
+    border-radius: 45%;
+}
+.name{
+    padding-top: 10px;
+}
+.profile-name{
+    padding-bottom: 10px;
+}
+.section{
+    width: 35%;
+    float: left;
+}
+.list{
+    line-height: 1.4em;
+}
+
+.contact{
+    padding-top: 15px;
+    padding-left: 20px;
+    
+}
+.head{
+    padding-top: 2px;
+}
+.contact h2{
+    padding-bottom: 8px;
+    text-transform: uppercase;
+}
+.contact-line{
+    line-height: 1.4em;
+}
+#projects{
+    padding-top: 10px;
+}
+small{
+    padding : 0;
+}
+
+.contact .small-heading{
+    padding-top: 15px;
+}
+ul{
+    padding-left: 20px;
+}
+.column-right{
+    width: 60%;
+    float:left;
+}
+.line{
+    border-left: 1px solid grey;
+    height: 680px;
+    width: 2%;
+    margin-top: 30px;
+    float: left;
+}
+.project-small{
+    padding-top: 8px;
+}
+.edu{
+    padding-top: 18px;
+    padding-left: 20px;
+}
+.education-top{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.education{
+    padding-bottom: 15px;
+}
+.profile-line{
+    line-height: 1.4em;
+}
